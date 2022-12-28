@@ -4,6 +4,7 @@
 ### Intro
 - This repo is for my personal study of Python and its basic libraries
 - Jupyter Notebooks have some markdown cells which contain explanations in LaTeX which are sometimes rendered incorrectly by GitHub. So, it is sometimes better to study locally
+- Examples in this repo are not ordered
 - All code and all examples are prone to all kinds of errors
 - Any corrections, suggestions, improvements, etc. are welcome
 
@@ -11,7 +12,7 @@
 - [/topics/argparse](https://github.com/serhatsoyer/py4Me/tree/main/topics/argparse) with [*argparse*](https://docs.python.org/3/library/argparse.html) library
     - [/topics/argparse/argparse.ipynb](https://github.com/serhatsoyer/py4Me/blob/main/topics/argparse/argparse.ipynb) calls [/topics/argparse/with.py](https://github.com/serhatsoyer/py4Me/blob/main/topics/argparse/with.py) and [/topics/argparse/without.py](https://github.com/serhatsoyer/py4Me/blob/main/topics/argparse/without.py)
     - *\_\_name\_\_ == '\_\_main\_\_'* check
-    - Call *.py* files using *!python* or *%%bash* from a Jupyter notebook
+    - Call *.py* files using *!python* or *%%bash* from a Jupyter notebook cell
 - [/topics/colab/colab.ipynb](https://github.com/serhatsoyer/py4Me/blob/main/topics/colab/colab.ipynb)
     - Working on Google Colab
     - Accessing Google Drive folders
@@ -34,11 +35,11 @@
     - Logging like printing using [*logging*](https://docs.python.org/3/library/logging.html) library
     - Logging to a file using [*logging*](https://docs.python.org/3/library/logging.html) library
 - [/topics/misc/zip.ipynb](https://github.com/serhatsoyer/py4Me/blob/main/topics/misc/zip.ipynb)
-    - *zip* and *enumerate* functions
+    - *zip* and *enumerate* functions in Python
 - [/topics/navigating/navigating.ipynb](https://github.com/serhatsoyer/py4Me/blob/main/topics/navigating/navigating.ipynb)
     - Tutorial on [*pathlib*](https://docs.python.org/3/library/pathlib.html) library
     - Iterate over the files in a directory
-    - Create, move, rename, delete files and folders
+    - Create, move, rename, and delete files and folders (and more)
 - [/topics/oop/oop.ipynb](https://github.com/serhatsoyer/py4Me/blob/main/topics/oop/oop.ipynb)
     - *\_\_init\_\_* method
     - Inheritance
@@ -47,10 +48,11 @@
 
 ### To Do List
 - Study and demonstrate working on AWS basics
+- Create and use detailed *Requirements* file
 
 ### My Other Study Repos
-- [py4DSP: DSP code on Python](https://github.com/serhatsoyer/py4DSP)
-- [py4ML: ML code on Python](https://github.com/serhatsoyer/py4ML)
-- [py4Nav: Navigation code on Python](https://github.com/serhatsoyer/py4Nav)
+- [py4ML: ML code in Python](https://github.com/serhatsoyer/py4ML)
+- [py4DSP: DSP code in Python](https://github.com/serhatsoyer/py4DSP)
+- [py4Nav: Navigation code in Python](https://github.com/serhatsoyer/py4Nav)
 
 Written by [*serhatsoyer*](https://github.com/serhatsoyer)
