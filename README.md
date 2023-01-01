@@ -45,6 +45,8 @@
     - Inheritance
     - Class attributes
     - *@staticmethod* and *@classmethod*
+- [/topics/pandas/word_frequency.ipynb](https://github.com/serhatsoyer/py4Me/blob/main/topics/pandas/word_frequency.ipynb)
+    - Some [*pandas*](https://pandas.pydata.org) operations including *apply*, *drop_duplicates*, and *sort_values*
 
 ### To Do List
 - Study and demonstrate working on AWS basics
