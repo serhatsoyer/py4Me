@@ -49,7 +49,6 @@
     - Some [*pandas*](https://pandas.pydata.org) operations including *apply*, *drop_duplicates*, and *sort_values*
 
 ### To Do List
-- Study and demonstrate working on AWS basics
 - Create and use detailed *Requirements* file
 
 ### My Other Study Repos
