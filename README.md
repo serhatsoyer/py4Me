@@ -47,9 +47,9 @@
     - *@staticmethod* and *@classmethod*
 - [/topics/pandas/word_frequency.ipynb](https://github.com/serhatsoyer/py4Me/blob/main/topics/pandas/word_frequency.ipynb)
     - Some [*pandas*](https://pandas.pydata.org) operations including *apply*, *drop_duplicates*, and *sort_values*
-
-### To Do List
-- Create and use detailed *Requirements* file
+- [/topics/requirements/create.ipynb](https://github.com/serhatsoyer/py4Me/blob/main/topics/requirements/create.ipynb)
+    - *pip install* and *pip uninstall*
+    - Creating *requirements.txt* file using [pipreqs](https://pypi.org/project/pipreqs/) library
 
 ### My Other Study Repos
 - [py4ML: ML code in Python](https://github.com/serhatsoyer/py4ML)
